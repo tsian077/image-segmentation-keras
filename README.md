@@ -336,3 +336,11 @@ Here are a few projects which are using our library :
 
 If you use our code in a publicly available project, please add the link here ( by posting an issue or creating a PR )
 
+
+## Add EfficientNet
+
+```python 
+#Use EfficientNet 
+from image_segmentation_keras.keras_segmentation.models.unet import EfficientNetB3_unet
+```
+
